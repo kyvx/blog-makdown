@@ -1,0 +1,9 @@
+#+TITLE: 新的
+#+DATE: 2016-09-24
+#+LAYOUT: post
+#+TAGS:
+#+CATEGORIES:
+#+OPTIONS: toc:nil num:nil
+#+OPTIONS: html-postamble:nil  
+
+* 这是用 org-mode 写的文章！
