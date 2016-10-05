@@ -1,0 +1,74 @@
+Emacs Commands History
+shell
+org-mode
+package-list-packages
+package-list-packages-no-fetch
+
+Emacs Commands
+gnus-score-mode
+desktop-save-in-desktop-dir
+edebug-Trace-fast-mode (C-x X T)
+package-refresh-contents
+save-buffers-kill-terminal (C-x C-c)
+format-find-file
+markdown-reference-goto-definition
+helm-info-libffi
+dired-view-file
+ido-save-history
+projectile-run-eshell (C-c p x e)
+spacemacs/helm-buffers-do-grep (M-m s g b)
+indent-rigidly-right-to-tab-stop
+erc-nickserv-identify
+Info-history-back
+gnus-update-format
+minibuffer-inactive-mode
+spacemacs//helm-navigation-spacemacs/helm-action-6-6
+uncomment-region
+timeclock-change
+run-prolog
+ido-delete-backward-word-updir
+evil-hybrid-state
+spacemacs/toggle-maximize-frame-on
+center-region
+table-insert-sequence
+calc
+f90-mode
+helm-info-viper
+spacemacs/helm-edit
+spacemacs//window-manipulation-spacemacs/enlarge-window-horizontally-]
+timeclock-out
+make-frame
+helm-info-gpgrt
+spacemacs/toggle-camel-case-motion-on
+evil-search-unbounded-word-backward
+ad-recover
+menu-bar-kill-ring-save
+previous-error-no-select
+slitex-mode
+helm-global-mark-ring
+evil-next-line-first-non-blank
+help-follow
+Buffer-menu-delete-backwards
+delete-backward-char
+helm-info-gnutls-guile
+spacemacs//window-manipulation-spacemacs/toggle-golden-ratio-g
+mouse-set-secondary (<M-drag-mouse-1>)
+kill-word (M-d)
+display-buffer (C-x 4 C-o)
+helm-info-erc
+spacemacs/helm-wikipedia-suggest (M-m s w w)
+evil-previous-open-paren
+Buffer-menu-execute
+tabulated-list-col-sort
+kmacro-end-or-call-macro (<f4>)
+helm-select-xfont
+LaTeX-mode
+vhdl-mode
+diff
+table-recognize-region
+rmail-output-as-seen
+outline-previous-visible-heading
+which-key-C-h-dispatch
+evil-complete-next-line
+table-unrecognize-region
+c-set-offset
