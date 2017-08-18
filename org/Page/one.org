@@ -1,0 +1,11 @@
+#+TITLE: About & Links
+
+** 关于
+
+本站为静态博客（假的，连评论、RSS 都没有，不具备博客基本要素）试验田。
+
+** 链接
+
++ [[https://github.com/kyvx/blog-makdown][早期文章]]
++ [[https://github.com/kyvx/blog-makdown/issues/new][评论 & 反馈（其实是 Issues）]]
++ [[https://tieba.baidu.com/f?kw=%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%93%B2%E5%AD%A6&fr=index][百度马克思主义哲学吧]]
